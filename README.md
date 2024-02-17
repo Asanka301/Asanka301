@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asanka Srinath</h1>
+<h1 align="center">Hi 👋, I'm Asanka Gamage</h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hmbXJzc3hsNjJta2p1ejZiYWJ6ZXIxajMzdGg0cGs5Y2hpdGFzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
 
